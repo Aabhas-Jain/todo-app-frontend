@@ -6,7 +6,7 @@ Checkout the app, you can add, update or delete todos.
 
 Backend APIs are built in Spring Boot and successgully hosted in Heroku.
 
-Backend APIs code is available here : 
+Backend APIs code is available here : https://github.com/Aabhas-Jain/todo-app-backend
 
 ## Available Scripts
 
