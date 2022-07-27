@@ -8,6 +8,8 @@ Backend APIs are built in Spring Boot and successgully hosted in Heroku.
 
 Backend APIs code is available here : https://github.com/Aabhas-Jain/todo-app-backend
 
+![Screenshot (96)](https://user-images.githubusercontent.com/53405553/181312266-661ec0d3-4bf4-4ee4-b4a3-7c41432d4637.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
