@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Todo App with full functionality
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is hosted here : https://aabhas-jain.github.io/todo-app-frontend/
+
+Checkout the app, you can add, update or delete todos.
+
+Backend APIs are built in Spring Boot and successgully hosted in Heroku.
+
+Backend APIs code is available here : 
 
 ## Available Scripts
 
